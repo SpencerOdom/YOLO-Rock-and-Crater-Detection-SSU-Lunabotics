@@ -1,0 +1,6 @@
+train: /Users/Spenc/yoloV11/dataset/train/images
+val: /Users/Spenc/yoloV11/dataset/valid/images
+test: /Users/Spenc/yoloV11/dataset/test/images
+
+nc: 3
+names: ['hole', '-r' ,'rock']
