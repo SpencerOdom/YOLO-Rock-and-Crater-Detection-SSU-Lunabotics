@@ -29,9 +29,9 @@ See the full breakdown of our approach and results here:
 
 ✅ Train models on custom lunar dataset
 
-🔄 Integrate detection into rover hardware
+✅ Test in simulated lunar environment
 
-🔜 Test in simulated lunar environment
+🔄 Integrate detection into rover hardware
 
 🏆 NASA Lunabotics Competition
 The NASA Lunabotics Competition challenges teams to design autonomous lunar rovers capable of mining and transporting resources.
